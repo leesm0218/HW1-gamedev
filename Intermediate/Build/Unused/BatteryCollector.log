@@ -1,0 +1,10 @@
+﻿  Creating makefile for hot reloading BatteryCollectorEditor (working set of source files changed)
+  Compiling game modules for hot reload
+  Parsing headers for BatteryCollectorEditor
+    Running UnrealHeaderTool "C:\Users\Administrator\Desktop\BatteryCollector\BatteryCollector.uproject" "C:\Users\Administrator\Desktop\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BatteryCollectorEditor in 4.7754315 seconds
+  Performing 2 actions (4 in parallel)
+  BatteryCollectorGameMode.cpp
+  [2/2] Link UE4Editor-BatteryCollector-6553.dll
+     Creating library C:\Users\Administrator\Desktop\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6553.lib and object C:\Users\Administrator\Desktop\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-6553.exp
+  Total build time: 14.15 seconds
