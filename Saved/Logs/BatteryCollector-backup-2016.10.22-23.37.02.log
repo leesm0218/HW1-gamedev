@@ -1,0 +1,1475 @@
+﻿Log file open, 10/22/16 22:28:47
+LogInit:Display: Running engine for game: BatteryCollector
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1570700949) SRandInit(1570700963).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.095364
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3142249
+LogInit: Engine Version: 4.13.1-3142249+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3142249
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Sep 28 2016 02:12:12
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.10.22-13.28.47:289][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.22-13.28.47:289][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.10.22-13.28.47:302][  0]LogInit: Computer: MSDN-SPECIAL
+[2016.10.22-13.28.47:302][  0]LogInit: User: Administrator
+[2016.10.22-13.28.47:302][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.10.22-13.28.47:302][  0]LogInit: High frequency timer resolution =14.318180 MHz
+[2016.10.22-13.28.47:302][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2016.10.22-13.28.47:302][  0]LogMemory: Platform Memory Stats for Windows
+[2016.10.22-13.28.47:302][  0]LogMemory: Process Physical Memory: 255.63 MB used, 255.63 MB peak
+[2016.10.22-13.28.47:302][  0]LogMemory: Process Virtual Memory: 259.80 MB used, 259.80 MB peak
+[2016.10.22-13.28.47:302][  0]LogMemory: Physical Memory: 2760.78 MB used, 8191.30 MB total
+[2016.10.22-13.28.47:302][  0]LogMemory: Virtual Memory: 623.02 MB used, 134217728.00 MB total
+[2016.10.22-13.28.47:335][  0]LogInit: Overriding culture en w/ editor configuration.
+[2016.10.22-13.28.48:278][  0]LogD3D11RHI: D3D11 adapters:
+[2016.10.22-13.28.48:291][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7800 Series' (Feature Level 11_0)
+[2016.10.22-13.28.48:291][  0]LogD3D11RHI:       1006/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2016.10.22-13.28.48:293][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.10.22-13.28.48:293][  0]LogD3D11RHI:       0/0/4095 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.10.22-13.28.48:293][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.10.22-13.28.48:298][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.10.22-13.28.48:298][  0]LogD3D11RHI:     GPU DeviceId: 0x6819 (for the marketing name, search the web for "GPU Device Id")
+[2016.10.22-13.28.48:298][  0]LogWindows: EnumDisplayDevices:
+[2016.10.22-13.28.48:298][  0]LogWindows:    0. 'AMD Radeon HD 7800 Series' (P:1 D:1)
+[2016.10.22-13.28.48:299][  0]LogWindows:    1. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.10.22-13.28.48:299][  0]LogWindows:    2. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.10.22-13.28.48:300][  0]LogWindows:    3. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.10.22-13.28.48:300][  0]LogWindows:    4. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.10.22-13.28.48:300][  0]LogWindows:    5. 'AMD Radeon HD 7800 Series' (P:0 D:0)
+[2016.10.22-13.28.48:301][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2016.10.22-13.28.48:301][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7800 Series
+[2016.10.22-13.28.48:301][  0]LogD3D11RHI:   Driver Version: Crimson 15.11 (internal:15.300.1025.1001, unified:15.300.1025.1001)
+[2016.10.22-13.28.48:301][  0]LogD3D11RHI:      Driver Date: 11-29-2015
+[2016.10.22-13.28.48:301][  0]LogRHI: Texture pool is 704 MB (70% of 1006 MB)
+[2016.10.22-13.28.48:309][  0]LogD3D11RHI: Async texture creation enabled
+[2016.10.22-13.28.48:322][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2016.10.22-13.28.48:322][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Administrator/Desktop/BatteryCollector/Intermediate/Shaders/WorkingDirectory/5976/).
+[2016.10.22-13.28.48:323][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ADMINI~1/AppData/Local/Temp/UnrealShaderWorkingDir/0AF378594F3952032898368006C78B6C/'.
+[2016.10.22-13.28.48:323][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.10.22-13.28.50:116][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.10.22-13.28.50:129][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.10.22-13.28.50:142][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.10.22-13.28.50:155][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.10.22-13.28.50:167][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.10.22-13.28.50:178][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.10.22-13.28.50:188][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.10.22-13.28.50:198][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.10.22-13.28.50:209][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.10.22-13.28.50:219][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.10.22-13.28.50:230][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.10.22-13.28.50:251][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.10.22-13.28.50:251][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.10.22-13.28.50:252][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.10.22-13.28.50:278][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.10.22-13.28.50:288][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.10.22-13.28.50:298][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.10.22-13.28.50:309][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.10.22-13.28.50:319][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.10.22-13.28.50:329][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.10.22-13.28.50:329][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.10.22-13.28.50:449][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache: Loaded boot cache 0.13s 66MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrator/Desktop/BatteryCollector/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrator/Desktop/BatteryCollector/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.10.22-13.28.50:576][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.10.22-13.28.50:603][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.10.22-13.28.50:616][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.10.22-13.28.50:931][  0]LogInit: Selected Device Profile: [Windows]
+[2016.10.22-13.28.50:934][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.10.22-13.28.51:066][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.10.22-13.28.51:066][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.10.22-13.28.51:066][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.10.22-13.28.51:173][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.10.22-13.28.51:664][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: batterycollector, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3411550888
+[2016.10.22-13.28.51:708][  0]LogAssetRegistry: FAssetRegistry took 0.0217 seconds to start up
+[2016.10.22-13.28.51:732][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.019406 seconds
+[2016.10.22-13.28.51:743][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.10.22-13.28.51:743][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.10.22-13.28.51:743][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.10.22-13.28.51:755][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.10.22-13.28.52:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.22-13.28.52:076][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.10.22-13.28.53:286][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.10.22-13.28.53:315][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.10.22-13.28.53:505][  0]LogLinker:Warning: Can't find file '/Script/TwinStickShooter'
+[2016.10.22-13.28.53:505][  0]LogLinker:Warning: Can't find file for asset '/Script/TwinStickShooter' while loading ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/CharacterAnimBP.uasset.
+[2016.10.22-13.28.53:505][  0]LoadErrors:Error: Error /Game/AnimationAssets/CharacterAnimBP : Can't find file for asset. /Script/TwinStickShooter
+[2016.10.22-13.28.53:507][  0]LogLinker:Warning: Can't find file '/Script/TwinStickShooter'
+[2016.10.22-13.28.53:507][  0]LogLinker:Warning: Can't find file for asset '/Script/TwinStickShooter' while loading ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset.
+[2016.10.22-13.28.53:507][  0]LoadErrors:Error: Error /Game/Blueprints/HeroCharacter : Can't find file for asset. /Script/TwinStickShooter
+[2016.10.22-13.28.53:760][  0]LogLinker:Warning: Can't find file '/Script/TwinStickShooter'
+[2016.10.22-13.28.53:760][  0]LogLinker:Warning: Can't find file for asset '/Script/TwinStickShooter' while loading ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/TwinStickHUD.uasset.
+[2016.10.22-13.28.53:760][  0]LoadErrors:Error: Error /Game/Blueprints/TwinStickHUD : Can't find file for asset. /Script/TwinStickShooter
+[2016.10.22-13.28.53:776][  0]LogLinker:Warning: Can't find file '/Script/TwinStickShooter'
+[2016.10.22-13.28.53:776][  0]LogLinker:Warning: Can't find file for asset '/Script/TwinStickShooter' while loading ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/EnemyCharacter.uasset.
+[2016.10.22-13.28.53:776][  0]LoadErrors:Error: Error /Game/Blueprints/EnemyCharacter : Can't find file for asset. /Script/TwinStickShooter
+[2016.10.22-13.28.54:297][  0]SourceControl: Info Source control is disabled
+[2016.10.22-13.28.54:383][  0]SourceControl: Info Source control is disabled
+[2016.10.22-13.28.54:400][  0]SourceControl: Info Source control is disabled
+[2016.10.22-13.28.54:416][  0]SourceControl: Info Source control is disabled
+[2016.10.22-13.28.54:914][  0]LogEngine: Initializing Engine...
+[2016.10.22-13.28.54:915][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.10.22-13.28.55:112][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.10.22-13.28.55:131][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.28.55:164][  0]LogInit: FAudioDevice initialized.
+[2016.10.22-13.28.55:228][  0]LogDerivedDataCache: Saved boot cache 0.06s 66MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.10.22-13.28.55:250][  0]LogInit: Texture streaming: Enabled
+[2016.10.22-13.28.55:288][  0]LogInit: Transaction tracking system initialized
+[2016.10.22-13.28.55:321][  0]BlueprintLog: New page: Editor Load
+[2016.10.22-13.28.55:554][  0]LocalizationService: Info Localization service is disabled
+[2016.10.22-13.28.55:675][  0]LogConsoleResponse:Display: 
+[2016.10.22-13.28.55:846][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.10.22-13.28.55:846][  0]LogCook:Display: Mobile HDR setting 1
+[2016.10.22-13.28.56:149][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/BatteryCollector/Content/' took 0.02s
+[2016.10.22-13.28.56:149][  0]SourceControl: Info Source control is disabled
+[2016.10.22-13.28.56:149][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Maps/CollectionLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.10.22-13.28.56:150][  0]LightingResults: New page: Lighting Build
+[2016.10.22-13.28.56:154][  0]MapCheck: New page: Map Check
+[2016.10.22-13.28.56:154][  0]LightingResults: New page: Lighting Build
+[2016.10.22-13.28.57:264][  0]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.28.57:283][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.10.22-13.28.57:284][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.10.22-13.28.57:461][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 176.958ms to complete.
+[2016.10.22-13.28.57:461][  0]LogFileHelpers: Loading map 'CollectionLevel' took 1.312
+[2016.10.22-13.28.57:619][  0]LogCollectionManager: Loaded 0 collections in 0.003064 seconds
+[2016.10.22-13.28.57:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/BatteryCollector/Saved/Collections/' took 0.01s
+[2016.10.22-13.28.57:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/BatteryCollector/Content/Developers/Administrator/Collections/' took 0.01s
+[2016.10.22-13.28.57:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Desktop/BatteryCollector/Content/Collections/' took 0.01s
+[2016.10.22-13.28.57:663][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2016.10.22-13.28.57:678][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2147 classes and 417 folders.
+[2016.10.22-13.28.57:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.10.22-13.28.57:683][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.10.22-13.28.57:686][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0027 seconds. Added 12 classes and 0 folders.
+[2016.10.22-13.28.57:695][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2016.10.22-13.28.57:787][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2016.10.22-13.28.57:797][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0029 seconds. Added 1 classes and 2 folders.
+[2016.10.22-13.28.57:816][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.10.22-13.28.57:822][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.10.22-13.28.57:855][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0032 seconds. Added 1 classes and 2 folders.
+[2016.10.22-13.28.57:856][  0]LogLoad: (Engine Initialization) Total time: 12.19 seconds
+[2016.10.22-13.28.57:856][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.43 seconds
+[2016.10.22-13.28.57:856][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.10.22-13.28.57:856][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.10.22-13.28.57:872][  0]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2016.10.22-13.28.57:876][  0]LogOcInput: OculusInput pre-init called
+[2016.10.22-13.28.57:901][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.10.22-13.28.58:171][  0]LogRenderer: Reallocating scene render targets to support 1056x572 (Frame:2).
+[2016.10.22-13.28.58:838][  3]LogAssetRegistry: Asset discovery search completed in 7.1523 seconds
+[2016.10.22-13.28.58:838][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2016.10.22-13.28.58:838][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2016.10.22-13.29.02:559][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.29.02:562][335]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:29:02 AM)
+[2016.10.22-13.29.02:562][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.29.02:572][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009186s)
+[2016.10.22-13.29.02:573][335]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.29.02:573][335]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2016.10.22-13.29.02:573][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010934s)
+[2016.10.22-13.29.02:620][335]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.29.02:635][335]LogInit: FAudioDevice initialized.
+[2016.10.22-13.29.02:729][335]LogWorld: Game class is 'GameMode_BP_C'
+[2016.10.22-13.29.02:738][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.29.02
+[2016.10.22-13.29.02:739][335]LogWorld: Bringing up level for play took: 0.007360
+[2016.10.22-13.29.02:747][335]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0027 seconds. Added 11 classes and 0 folders.
+[2016.10.22-13.29.02:747][335]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.29.02:747][335]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.29.02:747][335]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.29.02:752][335]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.29.02:752][335]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.623
+[2016.10.22-13.29.31:779][801]Cmd: UpdateLandscapeSetup
+[2016.10.22-13.29.34:372][966]LogSavePackage: Save=702.33ms
+[2016.10.22-13.29.34:372][966]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/CollectionLevelBCEB4A7940709018786743A1AA3741C0.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2016.10.22-13.29.34:377][966]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2016.10.22-13.30.10:120][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.30.10:121][577]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:30:10 AM)
+[2016.10.22-13.30.10:121][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.30.10:130][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009635s)
+[2016.10.22-13.30.10:132][577]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.30.10:132][577]LogPlayLevel: PIE: World Init took: (0.001707s)
+[2016.10.22-13.30.10:132][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.011700s)
+[2016.10.22-13.30.10:159][577]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.30.10:174][577]LogInit: FAudioDevice initialized.
+[2016.10.22-13.30.10:208][577]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.30.10:216][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.30.10
+[2016.10.22-13.30.10:218][577]LogWorld: Bringing up level for play took: 0.007234
+[2016.10.22-13.30.10:219][577]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.30.10:219][577]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.30.10:219][577]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.30.10:223][577]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.30.10:223][577]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.094
+[2016.10.22-13.30.13:758][783]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3192.369 Y=-921.699 Z=11.837] for [EnemyCharacter_C]
+[2016.10.22-13.30.17:265][992]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3174.620 Y=-917.048 Z=-5.888] for [EnemyCharacter_C]
+[2016.10.22-13.30.18:269][ 47]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3195.357 Y=-867.971 Z=14.565] for [EnemyCharacter_C]
+[2016.10.22-13.30.18:762][ 74]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3160.799 Y=-878.619 Z=-7.084] for [EnemyCharacter_C]
+[2016.10.22-13.30.20:261][154]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3201.151 Y=-940.360 Z=49.502] for [EnemyCharacter_C]
+[2016.10.22-13.30.21:773][232]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3125.080 Y=-881.632 Z=-5.547] for [EnemyCharacter_C]
+[2016.10.22-13.30.22:769][282]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3167.857 Y=-898.307 Z=13.585] for [EnemyCharacter_C]
+[2016.10.22-13.30.27:765][508]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3114.159 Y=-904.918 Z=12.430] for [EnemyCharacter_C]
+[2016.10.22-13.33.05:990][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.33.05:990][709]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:33:05 AM)
+[2016.10.22-13.33.05:990][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.33.06:000][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009602s)
+[2016.10.22-13.33.06:001][709]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.33.06:002][709]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2016.10.22-13.33.06:002][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.011726s)
+[2016.10.22-13.33.06:029][709]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.33.06:047][709]LogInit: FAudioDevice initialized.
+[2016.10.22-13.33.06:085][709]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.33.06:092][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.33.06
+[2016.10.22-13.33.06:094][709]LogWorld: Bringing up level for play took: 0.007219
+[2016.10.22-13.33.06:095][709]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.33.06:095][709]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.33.06:095][709]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.33.06:099][709]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.33.06:099][709]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.03
+[2016.10.22-13.33.07:989][846]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3183.014 Y=-934.683 Z=3.325] for [EnemyCharacter_C]
+[2016.10.22-13.33.08:985][914]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3117.210 Y=-864.709 Z=57.601] for [EnemyCharacter_C]
+[2016.10.22-13.33.13:496][197]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3152.761 Y=-917.194 Z=96.853] for [EnemyCharacter_C]
+[2016.10.22-13.33.14:995][282]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3193.383 Y=-875.893 Z=-9.652] for [EnemyCharacter_C]
+[2016.10.22-13.33.18:500][464]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3126.524 Y=-945.817 Z=14.028] for [EnemyCharacter_C]
+[2016.10.22-13.33.19:986][534]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3187.241 Y=-898.567 Z=76.392] for [EnemyCharacter_C]
+[2016.10.22-13.33.24:490][827]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3128.365 Y=-916.521 Z=15.188] for [EnemyCharacter_C]
+[2016.10.22-13.33.25:991][919]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3152.909 Y=-931.941 Z=5.348] for [EnemyCharacter_C]
+[2016.10.22-13.33.41:874][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:876][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPerson_Jump.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:879][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:881][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:883][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:884][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPersonIdle.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:885][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPersonRun.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.41:887][246]LogLinker:Warning: Asset '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Mannequin/Animations/ThirdPersonWalk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2016.10.22-13.33.42:738][246]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0034 seconds. Added 112 classes and 0 folders.
+[2016.10.22-13.36.58:655][617]LogTexture:Display: Building textures: SunsetAmbientCubemap (RGBA16F)
+[2016.10.22-13.37.12:943][617]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2016.10.22-13.37.13:232][617]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.38.02:364][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.38.02:387][900]LogSavePackage: Save=14.75ms
+[2016.10.22-13.38.02:387][900]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle50DAFD9D4CB27CE742EC1682C69B2D28.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.38.02:390][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.38.05:041][ 21]Cmd: TRANSACTION UNDO
+[2016.10.22-13.38.05:041][ 21]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.38.06:910][101]Cmd: TRANSACTION UNDO
+[2016.10.22-13.38.06:910][101]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.39.26:088][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.39.26:098][796]LogSavePackage: Save=3.70ms
+[2016.10.22-13.39.26:098][796]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_RifleEF97B7344C3DF46D9DF5ACB68F5E74B5.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.39.26:100][796]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.39.34:417][243]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2016.10.22-13.39.34:659][243]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.39.53:214][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.39.53:237][ 79]LogSavePackage: Save=15.10ms
+[2016.10.22-13.39.53:237][ 79]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_RifleF93AECB641F90C3F4346ADB637310590.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.39.53:240][ 79]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.39.55:377][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.39.55:377][214]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:39:55 AM)
+[2016.10.22-13.39.55:377][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.39.55:386][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008615s)
+[2016.10.22-13.39.55:387][214]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.39.55:387][214]LogPlayLevel: PIE: World Init took: (0.001541s)
+[2016.10.22-13.39.55:387][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010465s)
+[2016.10.22-13.39.55:451][214]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.39.55:467][214]LogInit: FAudioDevice initialized.
+[2016.10.22-13.39.55:500][214]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.39.55:508][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.39.55
+[2016.10.22-13.39.55:510][214]LogWorld: Bringing up level for play took: 0.007233
+[2016.10.22-13.39.55:511][214]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.39.55:511][214]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.39.55:511][214]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.39.55:515][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.39.55:515][214]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.614
+[2016.10.22-13.40.01:875][623]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3176.049 Y=-904.836 Z=21.992] for [EnemyCharacter_C]
+[2016.10.22-13.40.03:876][732]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3142.891 Y=-912.750 Z=5.575] for [EnemyCharacter_C]
+[2016.10.22-13.40.08:135][ 57]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2016.10.22-13.40.08:379][ 57]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.40.24:036][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.40.24:047][780]LogSavePackage: Save=3.71ms
+[2016.10.22-13.40.24:047][780]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_Rifle84ED4D9D42CDA577C31FA796A2F6B7A3.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.40.24:049][780]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.40.26:118][876]Cmd: SELECT NONE
+[2016.10.22-13.40.26:757][906]Cmd: SELECT NONE
+[2016.10.22-13.40.29:178][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.40.29:178][ 54]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:40:29 AM)
+[2016.10.22-13.40.29:178][ 54]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.40.29:187][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008641s)
+[2016.10.22-13.40.29:188][ 54]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.40.29:188][ 54]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2016.10.22-13.40.29:189][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010363s)
+[2016.10.22-13.40.29:229][ 54]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.40.29:244][ 54]LogInit: FAudioDevice initialized.
+[2016.10.22-13.40.29:276][ 54]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.40.29:284][ 54]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.40.29
+[2016.10.22-13.40.29:286][ 54]LogWorld: Bringing up level for play took: 0.007243
+[2016.10.22-13.40.29:287][ 54]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.40.29:287][ 54]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.40.29:287][ 54]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.40.29:291][ 54]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.40.29:291][ 54]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.838
+[2016.10.22-13.40.32:671][289]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3164.409 Y=-874.092 Z=0.547] for [EnemyCharacter_C]
+[2016.10.22-13.40.34:172][384]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3151.151 Y=-935.024 Z=-11.687] for [EnemyCharacter_C]
+[2016.10.22-13.40.35:679][475]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3124.803 Y=-856.445 Z=23.443] for [EnemyCharacter_C]
+[2016.10.22-13.40.39:178][667]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3095.307 Y=-874.638 Z=-2.834] for [EnemyCharacter_C]
+[2016.10.22-13.40.44:904][ 93]LogEditorActor: Deleted Actor: EnemyCharacter_C
+[2016.10.22-13.40.44:926][ 93]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2016.10.22-13.40.56:934][ 66]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2016.10.22-13.40.57:193][ 66]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.41.49:275][495]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.41.49:599][508]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.41.51:176][581]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.41.51:917][614]LogEditorTransaction: Undo Clicking on Actors
+[2016.10.22-13.41.53:015][666]LogEditorTransaction: Undo Delete selection
+[2016.10.22-13.41.53:390][672]LogEditorTransaction: Undo Clicking on Actors
+[2016.10.22-13.41.59:666][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.41.59:667][ 14]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:41:59 AM)
+[2016.10.22-13.41.59:667][ 14]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.41.59:675][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008514s)
+[2016.10.22-13.41.59:676][ 14]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.41.59:677][ 14]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2016.10.22-13.41.59:677][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010427s)
+[2016.10.22-13.41.59:716][ 14]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.41.59:732][ 14]LogInit: FAudioDevice initialized.
+[2016.10.22-13.41.59:764][ 14]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.41.59:771][ 14]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.41.59
+[2016.10.22-13.41.59:773][ 14]LogWorld: Bringing up level for play took: 0.006980
+[2016.10.22-13.41.59:774][ 14]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.41.59:774][ 14]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.41.59:774][ 14]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.41.59:778][ 14]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.41.59:778][ 14]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.351
+[2016.10.22-13.42.02:164][185]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3131.776 Y=-886.525 Z=16.518] for [EnemyCharacter_C]
+[2016.10.22-13.42.04:167][318]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3196.711 Y=-897.019 Z=5.129] for [EnemyCharacter_C]
+[2016.10.22-13.42.08:672][593]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3134.082 Y=-897.951 Z=10.202] for [EnemyCharacter_C]
+[2016.10.22-13.42.10:166][675]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3103.708 Y=-900.855 Z=54.687] for [EnemyCharacter_C]
+[2016.10.22-13.42.13:170][826]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3171.647 Y=-924.891 Z=15.700] for [EnemyCharacter_C]
+[2016.10.22-13.42.15:668][940]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3186.927 Y=-930.129 Z=47.182] for [EnemyCharacter_C]
+[2016.10.22-13.42.16:675][983]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3128.935 Y=-940.023 Z=13.128] for [EnemyCharacter_C]
+[2016.10.22-13.42.25:805][547]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2016.10.22-13.42.25:942][548]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2016.10.22-13.42.26:026][549]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2016.10.22-13.42.26:106][550]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2016.10.22-13.42.31:130][855]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2016.10.22-13.42.31:421][855]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.43.04:909][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.43.04:920][350]LogSavePackage: Save=4.01ms
+[2016.10.22-13.43.04:920][350]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle79F92C564F165109EEB4A48E0571554A.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.43.04:922][350]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.43.08:569][567]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2016.10.22-13.43.08:573][567]Recompiling BatteryCollector...
+[2016.10.22-13.43.08:573][567]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 650 Win64 Development -editorrecompile -canskiplink "C:/Users/Administrator/Desktop/BatteryCollector/BatteryCollector.uproject"  -2015]
+[2016.10.22-13.43.08:601][567]Warning: Starting HotReload took  0.0s.
+[2016.10.22-13.43.10:235][698]CompilerResultsLog: New page: Compilation - Oct 23, 2016, 7:43:10 AM
+[2016.10.22-13.43.10:235][698]CompilerResultsLog: Info Compiling game modules for hot reload
+[2016.10.22-13.43.10:235][698]CompilerResultsLog: Info Target is up to date
+[2016.10.22-13.43.10:235][698]LogMainFrame: MainFrame: Module compiling took 1.667 seconds
+[2016.10.22-13.43.10:637][698]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2149 classes and 421 folders.
+[2016.10.22-13.43.10:637][698]Display: HotReload took  2.1s.
+[2016.10.22-13.43.11:051][731]MapCheck: New page: Map Check
+[2016.10.22-13.43.11:069][731]Cmd: MAP REBUILD ALLVISIBLE
+[2016.10.22-13.43.11:070][731]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2016.10.22-13.43.11:349][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2016.10.22-13.43.11:369][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_9, compiling. 
+[2016.10.22-13.43.11:379][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass_Inst, compiling. 
+[2016.10.22-13.43.11:389][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2016.10.22-13.43.11:398][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightTube_Inst, compiling. 
+[2016.10.22-13.43.11:407][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_DemoWall_Inst, compiling. 
+[2016.10.22-13.43.11:418][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_17, compiling. 
+[2016.10.22-13.43.11:446][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialTranslucentUnlit, compiling. 
+[2016.10.22-13.43.11:470][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_10, compiling. 
+[2016.10.22-13.43.11:482][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_ChestLogo, compiling. 
+[2016.10.22-13.43.11:495][731]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2016.10.22-13.43.12:892][731]LogLevel:Display: Export Material TexCoord Scales took 0.105 seconds.
+[2016.10.22-13.43.12:965][731]TextureStreamingBuild:Display: Build Texture Streaming took 0.069 seconds.
+[2016.10.22-13.43.13:014][731]LightingResults: New page: Lighting Build - Oct 23, 2016, 7:43:13 AM
+[2016.10.22-13.43.13:063][731]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2016.10.22-13.43.13:463][731]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2016.10.22-13.43.13:485][731]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2016.10.22-13.43.13:999][731]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2016.10.22-13.43.14:000][731]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5976
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2016.10.22-13.43.25:899][731]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2016.10.22-13.43.26:063][731]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2016.10.22-13.43.26:063][731]MapCheck: New page: CollectionLevel - Oct 23, 2016, 7:43:26 AM
+[2016.10.22-13.43.26:271][731]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 207.965ms to complete.
+[2016.10.22-13.43.26:293][731]LogEditorBuildUtils: Build time 0:15
+[2016.10.22-13.43.27:165][732]LogSavePackage: Save=576.78ms
+[2016.10.22-13.43.27:165][732]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/CollectionLevel_Auto123EF3C834BDC26F25255B4A80F45B327.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap'
+[2016.10.22-13.43.27:168][732]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto1.umap
+[2016.10.22-13.43.27:170][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.622
+[2016.10.22-13.43.27:170][732]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.622
+[2016.10.22-13.43.31:550][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.43.31:550][  3]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:43:31 AM)
+[2016.10.22-13.43.31:550][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.43.31:558][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008284s)
+[2016.10.22-13.43.31:560][  3]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.43.31:560][  3]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2016.10.22-13.43.31:560][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010015s)
+[2016.10.22-13.43.31:589][  3]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.43.31:605][  3]LogInit: FAudioDevice initialized.
+[2016.10.22-13.43.31:635][  3]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.43.31:643][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.43.31
+[2016.10.22-13.43.31:644][  3]LogWorld: Bringing up level for play took: 0.007207
+[2016.10.22-13.43.31:646][  3]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.43.31:646][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.43.31:646][  3]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.43.31:649][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.43.31:650][  3]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.479
+[2016.10.22-13.43.34:557][173]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3145.835 Y=-906.606 Z=4.001] for [EnemyCharacter_C]
+[2016.10.22-13.43.35:054][200]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3141.870 Y=-867.111 Z=72.928] for [EnemyCharacter_C]
+[2016.10.22-13.43.38:548][401]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3198.563 Y=-950.823 Z=17.065] for [EnemyCharacter_C]
+[2016.10.22-13.43.40:043][488]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3164.889 Y=-911.562 Z=94.743] for [EnemyCharacter_C]
+[2016.10.22-13.43.57:529][563]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2016.10.22-13.43.57:796][563]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.44.05:541][907]Job is a success!
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2016.10.22-13.44.10:046][908]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2016.10.22-13.44.11:079][908]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2016.10.22-13.44.11:080][908]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2016.10.22-13.44.11:080][908]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2016.10.22-13.44.11:133][908]Lightmass on MSDN-SPECIAL: 42.2 sec total, 176 ms importing, 82 ms setup, 4.44 sec photons, 37.5 sec processing, 0 ms extra exporting [21/21 mappings]. Threads: 2:30 min total, 1:34 min processing.
+[2016.10.22-13.44.11:144][908]LogStaticLightingSystem: Illumination: 58.0 sec (4.21 sec encoding lightmaps, 1.03 sec encoding shadowmaps)
+[2016.10.22-13.44.11:144][908]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (4.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2016.10.22-13.44.11:144][908]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2016.10.22-13.44.11:958][909]Cmd: MAP CHECK NOTIFYRESULTS
+[2016.10.22-13.44.11:958][909]MapCheck: New page: CollectionLevel - Oct 23, 2016, 7:44:11 AM
+[2016.10.22-13.44.12:159][909]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 201.155ms to complete.
+[2016.10.22-13.44.23:249][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.44.23:260][424]LogSavePackage: Save=4.20ms
+[2016.10.22-13.44.23:260][424]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_RifleF292EFF945C695692D5A7AB5E2FEBABB.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.44.23:261][424]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.44.24:050][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.44.24:061][461]LogSavePackage: Save=3.89ms
+[2016.10.22-13.44.24:061][461]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_Rifle3E128CC64E10597543B59D9673EFB2B5.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.44.24:062][461]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.44.39:527][279]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2016.10.22-13.44.39:787][279]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.44.49:568][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.44.49:579][730]LogSavePackage: Save=3.75ms
+[2016.10.22-13.44.49:579][730]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle692547CB4399BDA6B8F2B088AF775EA1.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.44.49:581][730]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.44.53:658][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.44.53:658][ 25]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:44:53 AM)
+[2016.10.22-13.44.53:658][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.44.53:667][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008380s)
+[2016.10.22-13.44.53:668][ 25]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.44.53:668][ 25]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2016.10.22-13.44.53:668][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010156s)
+[2016.10.22-13.44.53:717][ 25]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.44.53:731][ 25]LogInit: FAudioDevice initialized.
+[2016.10.22-13.44.53:763][ 25]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.44.53:771][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.44.53
+[2016.10.22-13.44.53:772][ 25]LogWorld: Bringing up level for play took: 0.007532
+[2016.10.22-13.44.53:774][ 25]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.44.53:774][ 25]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.44.53:774][ 25]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.44.53:778][ 25]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.44.53:778][ 25]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.351
+[2016.10.22-13.44.56:656][226]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3192.310 Y=-969.182 Z=-4.724] for [EnemyCharacter_C]
+[2016.10.22-13.44.59:662][415]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3226.189 Y=-898.337 Z=-6.539] for [EnemyCharacter_C]
+[2016.10.22-13.45.04:659][743]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3148.438 Y=-880.440 Z=15.100] for [EnemyCharacter_C]
+[2016.10.22-13.45.09:661][ 39]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3154.063 Y=-935.972 Z=5.559] for [EnemyCharacter_C]
+[2016.10.22-13.47.07:911][964]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2016.10.22-13.47.15:318][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.47.15:318][295]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:47:15 AM)
+[2016.10.22-13.47.15:318][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.47.15:327][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008922s)
+[2016.10.22-13.47.15:328][295]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.47.15:329][295]LogPlayLevel: PIE: World Init took: (0.001417s)
+[2016.10.22-13.47.15:329][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010649s)
+[2016.10.22-13.47.15:359][295]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.47.15:375][295]LogInit: FAudioDevice initialized.
+[2016.10.22-13.47.15:412][295]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.47.15:420][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.47.15
+[2016.10.22-13.47.15:422][295]LogWorld: Bringing up level for play took: 0.007527
+[2016.10.22-13.47.15:423][295]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.47.15:423][295]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.47.15:423][295]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.47.15:427][295]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.47.15:427][295]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.702
+[2016.10.22-13.47.18:327][399]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3076.425 Y=-918.449 Z=-2.388] for [EnemyCharacter_C]
+[2016.10.22-13.47.43:393][531]BlueprintLog: New page: Compile CharacterAnimBP
+[2016.10.22-13.47.55:336][ 57]LogRenderer: Reallocating scene render targets to support 1056x884 (Frame:73488).
+[2016.10.22-13.47.55:336][ 57]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.49.18:657][436]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2016.10.22-13.49.18:913][436]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.49.41:804][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.49.41:816][481]LogSavePackage: Save=4.01ms
+[2016.10.22-13.49.41:816][481]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_Rifle8817BBFC4C4596C6D9A8C78860BE075A.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.49.41:817][481]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.49.47:125][741]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2016.10.22-13.49.47:377][741]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.49.54:880][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.49.54:892][ 85]LogSavePackage: Save=3.96ms
+[2016.10.22-13.49.54:892][ 85]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle82CA92AD44C003DE5AB0C6A8D126B6B0.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.49.54:894][ 85]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.49.57:262][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.49.57:262][214]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:49:57 AM)
+[2016.10.22-13.49.57:262][214]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.49.57:271][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008937s)
+[2016.10.22-13.49.57:272][214]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.49.57:273][214]LogPlayLevel: PIE: World Init took: (0.001583s)
+[2016.10.22-13.49.57:273][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010858s)
+[2016.10.22-13.49.57:328][214]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.49.57:343][214]LogInit: FAudioDevice initialized.
+[2016.10.22-13.49.57:379][214]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.49.57:387][214]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.49.57
+[2016.10.22-13.49.57:388][214]LogWorld: Bringing up level for play took: 0.007408
+[2016.10.22-13.49.57:390][214]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.49.57:390][214]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.49.57:390][214]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.49.57:393][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.49.57:393][214]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.735
+[2016.10.22-13.49.58:751][310]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3143.107 Y=-852.129 Z=13.999] for [EnemyCharacter_C]
+[2016.10.22-13.50.00:765][447]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3154.474 Y=-916.989 Z=87.537] for [EnemyCharacter_C]
+[2016.10.22-13.50.06:265][771]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3065.175 Y=-932.746 Z=3.827] for [EnemyCharacter_C]
+[2016.10.22-13.50.09:972][ 61]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_31) - call TermArticulated first.
+[2016.10.22-13.50.10:227][ 61]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.50.18:878][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.50.18:889][455]LogSavePackage: Save=3.73ms
+[2016.10.22-13.50.18:889][455]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle3A8D5A2148FE443C4366A7BB739982D4.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.50.18:891][455]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.50.30:419][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Rt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset" SILENT=true
+[2016.10.22-13.50.30:430][991]LogSavePackage: Save=3.85ms
+[2016.10.22-13.50.30:430][991]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Rt_Rifle80DB331E448DC34DF455668B2E681F3B.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset'
+[2016.10.22-13.50.30:432][991]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Rt_Rifle.uasset
+[2016.10.22-13.50.32:797][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.50.32:797][125]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:50:32 AM)
+[2016.10.22-13.50.32:797][125]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.50.32:805][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008399s)
+[2016.10.22-13.50.32:806][125]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.50.32:807][125]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2016.10.22-13.50.32:807][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010209s)
+[2016.10.22-13.50.32:848][125]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.50.32:862][125]LogInit: FAudioDevice initialized.
+[2016.10.22-13.50.32:893][125]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.50.32:901][125]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.50.32
+[2016.10.22-13.50.32:903][125]LogWorld: Bringing up level for play took: 0.007370
+[2016.10.22-13.50.32:904][125]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.50.32:904][125]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.50.32:904][125]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.50.32:908][125]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.50.32:908][125]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.779
+[2016.10.22-13.50.36:291][359]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3099.120 Y=-951.462 Z=9.051] for [EnemyCharacter_C]
+[2016.10.22-13.50.37:799][454]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3174.414 Y=-888.954 Z=-10.109] for [EnemyCharacter_C]
+[2016.10.22-13.50.41:792][683]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3178.857 Y=-903.353 Z=6.678] for [EnemyCharacter_C]
+[2016.10.22-13.50.50:384][293]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2016.10.22-13.51.20:846][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.51.20:846][654]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:51:20 AM)
+[2016.10.22-13.51.20:846][654]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.51.20:855][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009030s)
+[2016.10.22-13.51.20:856][654]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.51.20:857][654]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2016.10.22-13.51.20:857][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010773s)
+[2016.10.22-13.51.20:888][654]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.51.20:903][654]LogInit: FAudioDevice initialized.
+[2016.10.22-13.51.20:938][654]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.51.20:946][654]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.51.20
+[2016.10.22-13.51.20:948][654]LogWorld: Bringing up level for play took: 0.007140
+[2016.10.22-13.51.20:949][654]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.51.20:949][654]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.51.20:949][654]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.51.20:953][654]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.51.20:953][654]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.824
+[2016.10.22-13.51.25:853][826]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3158.545 Y=-919.149 Z=60.492] for [EnemyCharacter_C]
+[2016.10.22-13.52.34:944][ 24]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.53.21:210][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.53.21:221][177]LogSavePackage: Save=3.84ms
+[2016.10.22-13.53.21:221][177]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_RifleC2E922644967844100BEB88009EC1928.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.53.21:222][177]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.53.58:990][832]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.54.00:698][903]LogEditorTransaction: Undo Rotate Bone
+[2016.10.22-13.54.52:910][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/Jog_Lt_Rifle" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset" SILENT=true
+[2016.10.22-13.54.52:924][307]LogSavePackage: Save=3.99ms
+[2016.10.22-13.54.52:924][307]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Jog_Lt_Rifle830024EF4B576AF516570FB811D9B5D4.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset'
+[2016.10.22-13.54.52:925][307]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/Jog_Lt_Rifle.uasset
+[2016.10.22-13.54.57:167][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-13.54.57:167][544]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 7:54:57 AM)
+[2016.10.22-13.54.57:167][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-13.54.57:176][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008620s)
+[2016.10.22-13.54.57:177][544]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-13.54.57:177][544]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2016.10.22-13.54.57:177][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010552s)
+[2016.10.22-13.54.57:236][544]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-13.54.57:252][544]LogInit: FAudioDevice initialized.
+[2016.10.22-13.54.57:283][544]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-13.54.57:291][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-22.54.57
+[2016.10.22-13.54.57:292][544]LogWorld: Bringing up level for play took: 0.007436
+[2016.10.22-13.54.57:293][544]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.54.57:293][544]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-13.54.57:293][544]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.54.57:297][544]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-13.54.57:297][544]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.831
+[2016.10.22-13.55.02:173][866]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3131.761 Y=-928.286 Z=-5.195] for [EnemyCharacter_C]
+[2016.10.22-13.55.03:160][924]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3109.398 Y=-883.911 Z=-8.664] for [EnemyCharacter_C]
+[2016.10.22-13.55.06:673][120]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3177.557 Y=-866.249 Z=12.655] for [EnemyCharacter_C]
+[2016.10.22-13.55.11:164][413]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3100.596 Y=-886.952 Z=-11.902] for [EnemyCharacter_C]
+[2016.10.22-13.55.12:157][474]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3135.002 Y=-895.826 Z=80.833] for [EnemyCharacter_C]
+[2016.10.22-13.55.13:672][565]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3140.466 Y=-879.222 Z=-3.088] for [EnemyCharacter_C]
+[2016.10.22-13.55.21:158][ 29]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3180.648 Y=-915.402 Z=57.009] for [EnemyCharacter_C]
+[2016.10.22-13.55.25:655][318]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_48) - call TermArticulated first.
+[2016.10.22-13.55.25:910][318]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.58.18:416][646]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_56) - call TermArticulated first.
+[2016.10.22-13.58.18:738][646]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-13.59.16:901][143]LogSavePackage: Save=104.78ms
+[2016.10.22-13.59.16:901][143]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/CollectionLevel_Auto220C8471C45956695CF69AEA881E8813B.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto2.umap'
+[2016.10.22-13.59.16:904][143]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Maps/CollectionLevel_Auto2.umap
+[2016.10.22-13.59.16:907][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.166
+[2016.10.22-13.59.16:907][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.166
+[2016.10.22-13.59.16:921][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AnimationAssets/HeroBlend] ([1] browsable assets)...
+[2016.10.22-13.59.16:961][143]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/AnimationAssets/HeroBlend.HeroBlend]
+[2016.10.22-13.59.16:961][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimationAssets/HeroBlend]
+[2016.10.22-13.59.16:984][143]LogSavePackage: Save=14.79ms
+[2016.10.22-13.59.16:984][143]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroBlend_Auto2C95D284A4410A607090694814B1560B0.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/AnimationAssets/HeroBlend_Auto2.uasset'
+[2016.10.22-13.59.16:986][143]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/AnimationAssets/HeroBlend_Auto2.uasset
+[2016.10.22-13.59.16:986][143]LogFileHelpers: Auto-saving content packages took 0.066
+[2016.10.22-14.04.14:809][159]LogEditorTransaction: Undo Move Sample
+[2016.10.22-14.04.16:026][208]LogEditorTransaction: Undo Move Sample
+[2016.10.22-14.04.16:205][215]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.16:376][221]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.16:549][228]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.16:722][235]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.16:897][242]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.17:070][249]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.17:246][256]LogEditorTransaction: Undo Move Sample
+[2016.10.22-14.04.17:421][263]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.17:594][270]LogEditorTransaction: Undo Add New Sample
+[2016.10.22-14.04.17:760][277]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.17:933][284]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.18:128][292]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.18:303][299]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.18:481][306]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.18:683][314]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.18:864][321]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.19:048][328]LogEditorTransaction: Undo Delete Blendspace Sample
+[2016.10.22-14.04.19:233][335]LogEditorTransaction: Undo Move Sample
+[2016.10.22-14.04.20:438][390]LogEditorTransaction: Undo Move Sample
+[2016.10.22-14.06.42:788][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2016.10.22-14.06.42:813][982]LogSavePackage: Save=15.53ms
+[2016.10.22-14.06.42:813][982]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroBlend5A5F36554B5AD1C809317E90C07D3F8D.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset'
+[2016.10.22-14.06.42:816][982]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset
+[2016.10.22-14.07.12:107][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnimationAssets/HeroBlend" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset" SILENT=true
+[2016.10.22-14.07.12:118][315]LogSavePackage: Save=3.84ms
+[2016.10.22-14.07.12:118][315]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroBlendFF90D45941338B0D5A40E296405ABF2B.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset'
+[2016.10.22-14.07.12:122][315]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/AnimationAssets/HeroBlend.uasset
+[2016.10.22-14.07.14:687][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.07.14:688][445]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:07:14 AM)
+[2016.10.22-14.07.14:688][445]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.07.14:696][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008556s)
+[2016.10.22-14.07.14:698][445]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.07.14:698][445]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2016.10.22-14.07.14:698][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010430s)
+[2016.10.22-14.07.14:743][445]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.07.14:758][445]LogInit: FAudioDevice initialized.
+[2016.10.22-14.07.14:790][445]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.07.14:798][445]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.07.14
+[2016.10.22-14.07.14:799][445]LogWorld: Bringing up level for play took: 0.007396
+[2016.10.22-14.07.14:801][445]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.07.14:801][445]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.07.14:801][445]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.07.14:804][445]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.07.14:804][445]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.676
+[2016.10.22-14.07.18:179][675]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3174.260 Y=-895.892 Z=9.657] for [EnemyCharacter_C]
+[2016.10.22-14.07.19:696][767]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3145.580 Y=-853.636 Z=18.186] for [EnemyCharacter_C]
+[2016.10.22-14.07.24:702][ 32]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3155.189 Y=-906.076 Z=88.771] for [EnemyCharacter_C]
+[2016.10.22-14.07.33:183][535]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3132.252 Y=-880.925 Z=-8.476] for [EnemyCharacter_C]
+[2016.10.22-14.07.35:687][674]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3211.163 Y=-932.527 Z=9.145] for [EnemyCharacter_C]
+[2016.10.22-14.07.39:685][870]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3164.102 Y=-901.869 Z=14.052] for [EnemyCharacter_C]
+[2016.10.22-14.07.43:208][ 23]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3110.567 Y=-944.868 Z=5.834] for [EnemyCharacter_C]
+[2016.10.22-14.07.49:688][322]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3184.872 Y=-917.764 Z=-10.252] for [EnemyCharacter_C]
+[2016.10.22-14.11.24:304][655]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Pistol_Standing.Equip_Pistol_Standing
+[2016.10.22-14.11.24:476][655]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2016.10.22-14.11.24:612][655]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2016.10.22-14.11.24:824][655]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_59) - call TermArticulated first.
+[2016.10.22-14.11.25:136][655]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.11.30:440][860]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Hip.Fire_Rifle_Hip
+[2016.10.22-14.11.31:497][894]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Rifle_Ironsights.Fire_Rifle_Ironsights
+[2016.10.22-14.11.31:538][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Hip.Fire_Shotgun_Hip
+[2016.10.22-14.11.34:449][  3]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Fire_Shotgun_Ironsights.Fire_Shotgun_Ironsights
+[2016.10.22-14.11.39:665][174]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Equip_Rifle_Standing.Equip_Rifle_Standing
+[2016.10.22-14.11.40:994][224]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_2.Death_Ironsights_2
+[2016.10.22-14.11.41:007][224]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Death_Ironsights_1.Death_Ironsights_1
+[2016.10.22-14.11.41:179][228]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2016.10.22-14.11.41:327][233]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2016.10.22-14.11.41:504][239]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2016.10.22-14.11.42:324][268]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2016.10.22-14.11.42:338][268]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2016.10.22-14.11.42:373][269]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2016.10.22-14.11.42:417][270]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2016.10.22-14.11.42:557][275]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Pistol.Idle_Pistol
+[2016.10.22-14.11.42:652][277]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break1.Idle_Rifle_Hip_Break1
+[2016.10.22-14.11.44:060][325]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Hip_Break2.Idle_Rifle_Hip_Break2
+[2016.10.22-14.11.44:135][327]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2016.10.22-14.11.47:519][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2016.10.22-14.11.55:087][713]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2016.10.22-14.11.55:132][714]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2016.10.22-14.11.55:834][740]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2016.10.22-14.11.55:880][741]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2016.10.22-14.11.55:891][741]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2016.10.22-14.11.55:913][741]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2016.10.22-14.11.55:994][742]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2016.10.22-14.11.55:999][742]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2016.10.22-14.11.56:020][742]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Ironsights.Aim_Space_Ironsights
+[2016.10.22-14.12.01:088][927]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Aim_Space_Hip.Aim_Space_Hip
+[2016.10.22-14.12.01:576][934]LogRenderer: Reallocating scene render targets to support 1132x884 (Frame:213188).
+[2016.10.22-14.12.01:743][935]LogRenderer: Reallocating scene render targets to support 1136x884 (Frame:213192).
+[2016.10.22-14.13.18:393][129]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_71) - call TermArticulated first.
+[2016.10.22-14.13.23:568][363]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.14.01:767][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.14.01:767][261]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:14:01 AM)
+[2016.10.22-14.14.01:767][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.14.01:776][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009129s)
+[2016.10.22-14.14.01:777][261]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.14.01:778][261]LogPlayLevel: PIE: World Init took: (0.001468s)
+[2016.10.22-14.14.01:778][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010938s)
+[2016.10.22-14.14.01:847][261]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.14.01:863][261]LogInit: FAudioDevice initialized.
+[2016.10.22-14.14.01:898][261]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.14.01:906][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.14.01
+[2016.10.22-14.14.01:908][261]LogWorld: Bringing up level for play took: 0.007306
+[2016.10.22-14.14.01:909][261]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.14.01:909][261]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.14.01:909][261]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.14.01:913][261]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.14.01:913][261]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.216
+[2016.10.22-14.14.03:266][360]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3194.463 Y=-876.468 Z=4.555] for [EnemyCharacter_C]
+[2016.10.22-14.14.06:262][563]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3111.495 Y=-955.156 Z=-7.789] for [EnemyCharacter_C]
+[2016.10.22-14.14.07:263][627]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3167.132 Y=-927.799 Z=3.247] for [EnemyCharacter_C]
+[2016.10.22-14.14.08:760][719]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3162.853 Y=-898.824 Z=16.577] for [EnemyCharacter_C]
+[2016.10.22-14.14.10:773][836]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3200.365 Y=-949.440 Z=-9.769] for [EnemyCharacter_C]
+[2016.10.22-14.14.18:762][341]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3190.701 Y=-904.771 Z=9.481] for [EnemyCharacter_C]
+[2016.10.22-14.14.20:269][422]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3096.545 Y=-933.127 Z=1.047] for [EnemyCharacter_C]
+[2016.10.22-14.14.22:818][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.14.22:818][587]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:14:22 AM)
+[2016.10.22-14.14.22:819][587]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.14.22:828][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009115s)
+[2016.10.22-14.14.22:829][587]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.14.22:829][587]LogPlayLevel: PIE: World Init took: (0.001634s)
+[2016.10.22-14.14.22:830][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.011081s)
+[2016.10.22-14.14.22:862][587]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.14.22:877][587]LogInit: FAudioDevice initialized.
+[2016.10.22-14.14.22:913][587]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.14.22:921][587]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.14.22
+[2016.10.22-14.14.22:923][587]LogWorld: Bringing up level for play took: 0.007446
+[2016.10.22-14.14.22:924][587]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.14.22:924][587]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.14.22:924][587]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.14.22:928][587]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.14.22:928][587]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.799
+[2016.10.22-14.14.28:810][968]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3108.550 Y=-972.153 Z=-7.191] for [EnemyCharacter_C]
+[2016.10.22-14.14.29:828][ 26]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3208.152 Y=-929.490 Z=-3.685] for [EnemyCharacter_C]
+[2016.10.22-14.14.33:312][205]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3222.508 Y=-874.933 Z=16.735] for [EnemyCharacter_C]
+[2016.10.22-14.14.34:323][255]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3150.834 Y=-886.655 Z=4.434] for [EnemyCharacter_C]
+[2016.10.22-14.14.36:810][433]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3117.121 Y=-927.978 Z=11.120] for [EnemyCharacter_C]
+[2016.10.22-14.14.37:317][469]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3210.552 Y=-892.321 Z=9.735] for [EnemyCharacter_C]
+[2016.10.22-14.14.39:316][602]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3098.429 Y=-908.981 Z=-9.398] for [EnemyCharacter_C]
+[2016.10.22-14.14.43:326][839]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3208.649 Y=-844.201 Z=-5.918] for [EnemyCharacter_C]
+[2016.10.22-14.14.44:728][939]Cmd: SELECT NONE
+[2016.10.22-14.14.46:199][ 56]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_73) - call TermArticulated first.
+[2016.10.22-14.15.16:459][394]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.16.22:881][795]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.17.11:792][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.048
+[2016.10.22-14.17.11:796][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([1] browsable assets)...
+[2016.10.22-14.17.11:849][696]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2016.10.22-14.17.11:849][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2016.10.22-14.17.11:976][696]LogSavePackage: Save=114.20ms
+[2016.10.22-14.17.11:976][696]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroCharacter_Auto35A6046FC40DAB57E85A8A98DE3FA5E22.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto3.uasset'
+[2016.10.22-14.17.11:983][696]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto3.uasset
+[2016.10.22-14.17.11:983][696]LogFileHelpers: Auto-saving content packages took 0.190
+[2016.10.22-14.17.27:928][508]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_75) - call TermArticulated first.
+[2016.10.22-14.22.19:802][ 80]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_77) - call TermArticulated first.
+[2016.10.22-14.22.32:086][714]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.24.28:033][417]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.25.26:675][912]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.26.17:582][  6]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_81) - call TermArticulated first.
+[2016.10.22-14.27.01:103][ 28]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.10.22-14.27.01:103][ 28]LogPlayLevel: [PlayLevel] Compiling HeroCharacter before play...
+[2016.10.22-14.27.01:392][ 28]LogPlayLevel: PlayLevel: Blueprint regeneration took 289 ms (1 blueprints)
+[2016.10.22-14.27.01:392][ 28]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:27:01 AM)
+[2016.10.22-14.27.01:392][ 28]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.27.01:401][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008588s)
+[2016.10.22-14.27.01:402][ 28]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.27.01:403][ 28]LogPlayLevel: PIE: World Init took: (0.001568s)
+[2016.10.22-14.27.01:403][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010488s)
+[2016.10.22-14.27.01:437][ 28]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.27.01:452][ 28]LogInit: FAudioDevice initialized.
+[2016.10.22-14.27.01:482][ 28]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.27.01:491][ 28]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.27.01
+[2016.10.22-14.27.01:492][ 28]LogWorld: Bringing up level for play took: 0.007390
+[2016.10.22-14.27.01:494][ 28]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.01:494][ 28]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.01:494][ 28]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.01:498][ 28]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.01:498][ 28]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.369
+[2016.10.22-14.27.22:191][117]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.27.22:193][117]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.27.22:193][117]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.27.26:171][308]BlueprintLog: New page: Compile HeroCharacter
+[2016.10.22-14.27.27:630][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2016.10.22-14.27.27:715][357]LogSavePackage: Save=74.88ms
+[2016.10.22-14.27.27:715][357]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroCharacterAF5E8C7541FF1FF4702395BF22E80D77.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset'
+[2016.10.22-14.27.27:718][357]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset
+[2016.10.22-14.27.29:651][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.27.29:652][490]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:27:29 AM)
+[2016.10.22-14.27.29:652][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.27.29:661][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009350s)
+[2016.10.22-14.27.29:662][490]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.27.29:663][490]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2016.10.22-14.27.29:663][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.011418s)
+[2016.10.22-14.27.29:697][490]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.27.29:713][490]LogInit: FAudioDevice initialized.
+[2016.10.22-14.27.29:748][490]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.27.29:756][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.27.29
+[2016.10.22-14.27.29:757][490]LogWorld: Bringing up level for play took: 0.007370
+[2016.10.22-14.27.29:759][490]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.29:759][490]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.29:759][490]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.29:762][490]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.29:762][490]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.366
+[2016.10.22-14.27.34:142][778]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3140.270 Y=-844.511 Z=-7.613] for [EnemyCharacter_C]
+[2016.10.22-14.27.35:984][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.27.35:984][918]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:27:35 AM)
+[2016.10.22-14.27.35:984][918]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.27.35:993][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008897s)
+[2016.10.22-14.27.35:994][918]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.27.35:995][918]LogPlayLevel: PIE: World Init took: (0.001467s)
+[2016.10.22-14.27.35:995][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010683s)
+[2016.10.22-14.27.36:028][918]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.27.36:043][918]LogInit: FAudioDevice initialized.
+[2016.10.22-14.27.36:074][918]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.27.36:083][918]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.27.36
+[2016.10.22-14.27.36:084][918]LogWorld: Bringing up level for play took: 0.007345
+[2016.10.22-14.27.36:086][918]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.36:086][918]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.27.36:086][918]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.36:089][918]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.27.36:089][918]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.04
+[2016.10.22-14.27.37:482][ 19]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3136.851 Y=-899.798 Z=90.445] for [EnemyCharacter_C]
+[2016.10.22-14.27.48:817][619]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.28.10:414][762]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.28.11:286][799]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.28.26:504][542]BlueprintLog: New page: Compile HeroCharacter
+[2016.10.22-14.28.30:081][695]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.30:097][695]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.30:099][695]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.30:101][695]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.30:103][695]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.30:104][695]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.30:310][702]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.30:329][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.30:329][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.30:332][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.30:333][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.30:335][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.30:337][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.30:338][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.30:338][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.30:339][702]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.30:805][723]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.30:822][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.30:824][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.30:826][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.30:827][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.30:829][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.30:831][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.30:831][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.30:832][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.30:833][723]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.31:263][747]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.31:280][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.31:280][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.31:283][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.31:284][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.31:286][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.31:287][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.31:288][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.31:289][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.31:290][747]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.31:658][767]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.31:675][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.31:676][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.31:679][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.31:680][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.31:681][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.31:683][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.31:684][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.31:685][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.31:686][767]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.31:895][777]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.31:913][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.31:913][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.31:916][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.31:917][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.31:919][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.31:921][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.31:921][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.31:922][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.31:922][777]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.32:100][785]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.32:117][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.32:118][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.32:121][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.32:122][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.32:124][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.32:125][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.32:126][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.32:127][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.32:128][785]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.32:307][793]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.32:324][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.32:325][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.32:328][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.32:329][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.32:331][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.32:332][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.32:333][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.32:334][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.32:335][793]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.32:513][801]LogEditorTransaction: Undo Edit Anim Class
+[2016.10.22-14.28.32:529][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.DrawFrustumComponent_61) Component already registered.
+[2016.10.22-14.28.32:530][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.Arrow) Component already registered.
+[2016.10.22-14.28.32:531][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.StaticMeshComponent_127) Component already registered.
+[2016.10.22-14.28.32:532][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CollectionSphere) Component already registered.
+[2016.10.22-14.28.32:533][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.FollowCamera) Component already registered.
+[2016.10.22-14.28.32:533][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CameraBoom) Component already registered.
+[2016.10.22-14.28.32:534][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_123:PersistentLevel.HeroCharacter_C_25.CharMoveComp) Component already registered.
+[2016.10.22-14.28.32:535][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.28.32:538][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.28.32:538][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.DrawFrustumComponent_49) Component already registered.
+[2016.10.22-14.28.32:539][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.StaticMeshComponent_115) Component already registered.
+[2016.10.22-14.28.32:540][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.CollectionSphere) Component already registered.
+[2016.10.22-14.28.32:541][801]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.FollowCamera) Component already registered.
+[2016.10.22-14.28.32:719][809]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2016.10.22-14.28.32:902][814]LogEditorTransaction: Undo Edit Animation Mode
+[2016.10.22-14.28.33:070][819]LogEditorTransaction: Undo Edit Animation Mode
+[2016.10.22-14.28.33:079][819]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.StaticMeshComponent_6) Component already registered.
+[2016.10.22-14.28.33:080][819]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.DrawFrustumComponent_0) Component already registered.
+[2016.10.22-14.28.40:810][219]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.29.21:778][722]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.29.21:780][722]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.29.21:782][722]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.29.21:782][722]LogAnimation:Warning: AnimBP CharacterAnimBP_C is incompatible with skeleton UE4_Mannequin_Skeleton, removing AnimBP from actor.
+[2016.10.22-14.29.25:834][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2016.10.22-14.29.25:916][917]LogSavePackage: Save=74.41ms
+[2016.10.22-14.29.25:916][917]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroCharacter5DBF4B9C4AD487306B729992B6E283C1.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset'
+[2016.10.22-14.29.25:920][917]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset
+[2016.10.22-14.29.26:396][940]BlueprintLog: New page: Compile HeroCharacter
+[2016.10.22-14.29.29:122][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.10.22-14.29.29:122][ 89]PIE: New page: PIE session: CollectionLevel (Oct 23, 2016, 8:29:29 AM)
+[2016.10.22-14.29.29:122][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2016.10.22-14.29.29:131][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008613s)
+[2016.10.22-14.29.29:133][ 89]LogAIModule: Creating AISystem for world CollectionLevel
+[2016.10.22-14.29.29:133][ 89]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2016.10.22-14.29.29:133][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.010425s)
+[2016.10.22-14.29.29:171][ 89]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.10.22-14.29.29:186][ 89]LogInit: FAudioDevice initialized.
+[2016.10.22-14.29.29:220][ 89]LogWorld: Game class is 'TwinStickMode_C'
+[2016.10.22-14.29.29:228][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2016.10.22-23.29.29
+[2016.10.22-14.29.29:229][ 89]LogWorld: Bringing up level for play took: 0.007410
+[2016.10.22-14.29.29:231][ 89]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.29.29:231][ 89]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.10.22-14.29.29:231][ 89]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.29.29:234][ 89]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.10.22-14.29.29:234][ 89]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.106
+[2016.10.22-14.29.31:622][257]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3178.246 Y=-920.449 Z=67.241] for [EnemyCharacter_C]
+[2016.10.22-14.29.33:123][354]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=3211.322 Y=-949.207 Z=-8.508] for [EnemyCharacter_C]
+[2016.10.22-14.30.05:645][ 23]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.10.22-14.30.19:219][655]BlueprintLog: New page: Compile HeroCharacter
+[2016.10.22-14.30.56:754][384]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.026
+[2016.10.22-14.30.56:757][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/HeroCharacter] ([1] browsable assets)...
+[2016.10.22-14.30.56:793][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/HeroCharacter.HeroCharacter]
+[2016.10.22-14.30.56:793][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HeroCharacter]
+[2016.10.22-14.30.56:878][384]LogSavePackage: Save=75.58ms
+[2016.10.22-14.30.56:878][384]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroCharacter_Auto40F3B1A29486404C7ABAD9BAAEDBF13C1.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto4.uasset'
+[2016.10.22-14.30.56:880][384]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/Autosaves/Game/Blueprints/HeroCharacter_Auto4.uasset
+[2016.10.22-14.30.56:880][384]LogFileHelpers: Auto-saving content packages took 0.124
+[2016.10.22-14.32.25:895][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HeroCharacter" FILE="../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset" SILENT=true
+[2016.10.22-14.32.25:977][ 51]LogSavePackage: Save=73.30ms
+[2016.10.22-14.32.25:977][ 51]LogSavePackage: Moving '../../../../../../Users/Administrator/Desktop/BatteryCollector/Saved/HeroCharacter70182DF34F5C2A88EE4866B87453493E.tmp' to '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset'
+[2016.10.22-14.32.25:982][ 51]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/Blueprints/HeroCharacter.uasset
+[2016.10.22-14.32.26:552][ 78]BlueprintLog: New page: Compile HeroCharacter
+[2016.10.22-14.32.36:929][642]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_82) - call TermArticulated first.
+[2016.10.22-14.32.42:367][852]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.32.47:669][ 68]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.33.49:578][187]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_88) - call TermArticulated first.
+[2016.10.22-14.33.52:085][286]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.34.50:979][603]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_90) - call TermArticulated first.
+[2016.10.22-14.34.57:849][942]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.35.12:024][104]LogSkeletalMesh: InitArticulated: Bodies already created (/Engine/Transient.DebugSkelMeshComponent_92) - call TermArticulated first.
+[2016.10.22-14.35.16:390][308]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2016.10.22-14.35.53:824][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2016.10.22-14.35.53:830][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Jog.Jump_From_Jog
+[2016.10.22-14.35.53:837][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand.Jump_From_Stand
+[2016.10.22-14.35.53:845][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Jump_From_Stand_Ironsights.Jump_From_Stand_Ironsights
+[2016.10.22-14.35.53:852][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_1.Prone_Death_1
+[2016.10.22-14.35.53:859][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Death_2.Prone_Death_2
+[2016.10.22-14.35.53:868][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_1.Prone_Fire_1
+[2016.10.22-14.35.53:873][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Fire_2.Prone_Fire_2
+[2016.10.22-14.35.53:879][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Idle.Prone_Idle
+[2016.10.22-14.35.53:900][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Rifle.Prone_Reload_Rifle
+[2016.10.22-14.35.53:912][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_Reload_Shotgun.Prone_Reload_Shotgun
+[2016.10.22-14.35.53:926][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Prone_To_Stand.Prone_To_Stand
+[2016.10.22-14.35.53:935][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Pistol.Reload_Pistol
+[2016.10.22-14.35.53:944][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Hip.Reload_Rifle_Hip
+[2016.10.22-14.35.53:954][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Rifle_Ironsights.Reload_Rifle_Ironsights
+[2016.10.22-14.35.53:963][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2016.10.22-14.35.53:977][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Ironsights.Reload_Shotgun_Ironsights
+[2016.10.22-14.35.54:044][853]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2016.10.22-14.35.54:103][853]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2016.10.22-14.35.54:107][853]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2016.10.22-14.35.54:132][853]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2016.10.22-14.35.54:142][853]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2016.10.22-14.35.54:172][853]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2016.10.22-14.35.54:179][853]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (BGRA8)
+[2016.10.22-14.35.54:195][853]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (BGRA8)
+[2016.10.22-14.35.54:212][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.Walk_Fwd_Rifle_Ironsights
+[2016.10.22-14.35.54:219][853]LogAIModule: Creating AISystem for world Showcase
+[2016.10.22-14.35.54:231][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2016.10.22-14.35.54:239][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.Stand_to_Crouch_Rifle_Hip
+[2016.10.22-14.35.54:246][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.Stand_to_Crouch_Rifle_Ironsights
+[2016.10.22-14.35.54:252][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Stand_To_Prone.Stand_To_Prone
+[2016.10.22-14.35.54:467][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2016.10.22-14.35.54:471][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.81] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 22 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:472][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.81] Compile of Ue4ASP_Character successful, but with 2 Warning(s) [in 1 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:472][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.81] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 0 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:547][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2016.10.22-14.35.54:552][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.89] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 20 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:552][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.89] Compile of Ue4ASP_Character successful, but with 2 Warning(s) [in 0 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:553][853]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4028.89] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 1 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.35.54:625][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2016.10.22-14.35.54:634][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Lt_Rifle_Ironsights.Walk_Lt_Rifle_Ironsights
+[2016.10.22-14.35.54:643][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2016.10.22-14.36.04:508][548]LogAIModule: Creating AISystem for world Showcase
+[2016.10.22-14.36.04:561][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2016.10.22-14.36.04:568][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4038.90] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 27 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:600][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning InputAction Event references unknown Action 'Crouch' for  K2Node_InputAction_32
+[2016.10.22-14.36.04:607][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4038.94] Compile of Ue4ASP_Character successful, but with 1 Warning(s) [in 25 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:607][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4038.94] Compile of Ue4ASP_Character successful, but with 2 Warning(s) [in 0 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:607][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4038.94] Compile of Ue4ASP_Character successful, but with 3 Warning(s) [in 0 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:727][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4039.06] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 119 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:727][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4039.06] Compile of Ue4ASP_Character successful, but with 5 Warning(s) [in 0 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.04:727][548]LogBlueprint:Warning: [Compiler Ue4ASP_Character] Warning [4039.06] Compile of Ue4ASP_Character successful, but with 6 Warning(s) [in 0 ms] (/Game/AnimationAssets/UE4_Mannequin/Ue4ASP_Character.Ue4ASP_Character)
+[2016.10.22-14.36.29:018][134]Cmd: TRANSACTION UNDO
+[2016.10.22-14.36.29:018][134]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2016.10.22-14.36.29:054][134]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CharMoveComp) Component already registered.
+[2016.10.22-14.36.29:055][134]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.Arrow) Component already registered.
+[2016.10.22-14.36.29:056][134]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CameraBoom) Component already registered.
+[2016.10.22-14.36.29:056][134]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.FollowCamera) Component already registered.
+[2016.10.22-14.36.29:057][134]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CollectionSphere) Component already registered.
+[2016.10.22-14.36.34:349][457]Cmd: TRANSACTION UNDO
+[2016.10.22-14.36.34:349][457]LogEditorTransaction: Undo Edit Use Ref Pose on Init Anim
+[2016.10.22-14.36.34:372][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.DrawFrustumComponent_414) Component already registered.
+[2016.10.22-14.36.34:373][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.Arrow) Component already registered.
+[2016.10.22-14.36.34:374][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_12.StaticMeshComponent_229) Component already registered.
+[2016.10.22-14.36.34:376][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_12.DrawFrustumComponent_163) Component already registered.
+[2016.10.22-14.36.34:377][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.CharMoveComp) Component already registered.
+[2016.10.22-14.36.34:377][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_121) Component already registered.
+[2016.10.22-14.36.34:378][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.CameraBoom) Component already registered.
+[2016.10.22-14.36.34:379][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.FollowCamera) Component already registered.
+[2016.10.22-14.36.34:380][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.CollectionSphere) Component already registered.
+[2016.10.22-14.36.34:380][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_125:PersistentLevel.HeroCharacter_C_52.StaticMeshComponent_480) Component already registered.
+[2016.10.22-14.36.34:381][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_55) Component already registered.
+[2016.10.22-14.36.34:382][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CharMoveComp) Component already registered.
+[2016.10.22-14.36.34:383][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.DrawFrustumComponent_0) Component already registered.
+[2016.10.22-14.36.34:384][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.StaticMeshComponent_6) Component already registered.
+[2016.10.22-14.36.34:384][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.Arrow) Component already registered.
+[2016.10.22-14.36.34:385][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CameraBoom) Component already registered.
+[2016.10.22-14.36.34:386][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_0.StaticMeshComponent_115) Component already registered.
+[2016.10.22-14.36.34:387][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.FollowCamera) Component already registered.
+[2016.10.22-14.36.34:387][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.CollectionSphere) Component already registered.
+[2016.10.22-14.36.34:388][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.StaticMeshComponent_221) Component already registered.
+[2016.10.22-14.36.34:389][457]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_2:PersistentLevel.HeroCharacter_C_8.DrawFrustumComponent_155) Component already registered.
+[2016.10.22-14.36.48:784][200]Cmd: QUIT_EDITOR
+[2016.10.22-14.36.49:435][200]LogWindowsTextInputMethodSystem:Display: IME system now activated using TSF (Microsoft 입력기).
+[2016.10.22-14.36.49:475][200]LogExit: Preparing to exit.
+[2016.10.22-14.36.50:807][200]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Desktop/BatteryCollector/Content/' was aborted.
+[2016.10.22-14.36.50:979][200]LogExit: Editor shut down
+[2016.10.22-14.36.50:981][200]LogExit: Transaction tracking system shut down
+[2016.10.22-14.36.51:472][200]LogObj: Freed 0b from 0 cluster array pools.
+[2016.10.22-14.36.51:473][200]LogExit: Object subsystem successfully closed.
+[2016.10.22-14.36.51:507][200]LogD3D11RHI: Shutdown
+[2016.10.22-14.36.51:507][200]LogD3D11RHI: CleanupD3DDevice
+[2016.10.22-14.36.51:823][200]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (239)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module BlueprintGraph (238)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (237)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (236)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (235)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (234)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module CrashTracker (233)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module SceneOutliner (232)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module WidgetCarousel (231)
+[2016.10.22-14.36.51:857][200]LogModuleManager: Shutting down and abandoning module AddContentDialog (230)
+[2016.10.22-14.36.51:857][200]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2016.10.22-14.36.51:864][200]LogModuleManager: Shutting down and abandoning module GameplayTags (229)
+[2016.10.22-14.36.51:864][200]LogModuleManager: Shutting down and abandoning module EditorWidgets (228)
+[2016.10.22-14.36.51:864][200]LogModuleManager: Shutting down and abandoning module CollectionManager (227)
+[2016.10.22-14.36.51:864][200]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Desktop/BatteryCollector/Content/Collections/' was aborted.
+[2016.10.22-14.36.51:864][200]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Desktop/BatteryCollector/Content/Developers/Administrator/Collections/' was aborted.
+[2016.10.22-14.36.51:864][200]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Desktop/BatteryCollector/Saved/Collections/' was aborted.
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module StatsViewer (226)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module FoliageEdit (225)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module LandscapeEditor (224)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (223)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module ActorPickerMode (222)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module GeometryMode (221)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module TextureAlignMode (220)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module BspMode (219)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module HardwareSurvey (218)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (217)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module SequenceRecorder (216)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module AutomationWorker (215)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (214)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module PlacementMode (213)
+[2016.10.22-14.36.51:865][200]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (212)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (211)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (210)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (209)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (208)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module Media (207)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (206)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (205)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module CharacterAI (204)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module SmartSnapping (203)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module SessionServices (202)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module ViewportSnapping (201)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module ViewportInteraction (200)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module LogVisualizer (199)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (198)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module IntroTutorials (197)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (196)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (195)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (194)
+[2016.10.22-14.36.51:866][200]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (193)
+[2016.10.22-14.36.51:886][200]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (192)
+[2016.10.22-14.36.51:886][200]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (191)
+[2016.10.22-14.36.51:886][200]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (190)
+[2016.10.22-14.36.51:886][200]LogModuleManager: Shutting down and abandoning module NiagaraEditor (189)
+[2016.10.22-14.36.51:886][200]LogModuleManager: Shutting down and abandoning module MergeActors (188)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module SizeMap (187)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module TreeMap (186)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module ReferenceViewer (185)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module LocalizationService (184)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (183)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module HardwareTargeting (182)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (181)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module UndoHistory (180)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module UserFeedback (179)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module XmlParser (178)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module Blutility (177)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (176)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (175)
+[2016.10.22-14.36.51:887][200]LogModuleManager: Shutting down and abandoning module InputBindingEditor (174)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (173)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module SettingsEditor (172)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module ProjectLauncher (171)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module SessionFrontend (170)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module ProfilerClient (169)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (168)
+[2016.10.22-14.36.51:888][200]LogModuleManager: Shutting down and abandoning module DeviceManager (167)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module AutomationController (166)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module AutomationWindow (165)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module Layers (164)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (163)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module DetailCustomizations (162)
+[2016.10.22-14.36.51:932][200]LogModuleManager: Shutting down and abandoning module PackagesDialog (161)
+[2016.10.22-14.36.51:934][200]LogModuleManager: Shutting down and abandoning module AnimGraph (160)
+[2016.10.22-14.36.51:934][200]LogModuleManager: Shutting down and abandoning module Persona (159)
+[2016.10.22-14.36.51:934][200]LogModuleManager: Shutting down and abandoning module Kismet (158)
+[2016.10.22-14.36.51:947][200]LogModuleManager: Shutting down and abandoning module GraphEditor (157)
+[2016.10.22-14.36.51:947][200]LogModuleManager: Shutting down and abandoning module ClassViewer (156)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module Toolbox (155)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module ModuleUI (154)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module MovieSceneTools (153)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module OutputLog (152)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module GammaUI (151)
+[2016.10.22-14.36.51:949][200]LogModuleManager: Shutting down and abandoning module Documentation (150)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module Niagara (149)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (148)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module AnalyticsET (147)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module PortalServices (146)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module PortalRpc (145)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module MessagingRpc (144)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module GameplayDebugger (143)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module AITestSuite (142)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module AIModule (141)
+[2016.10.22-14.36.51:950][200]LogModuleManager: Shutting down and abandoning module ProfilerService (140)
+[2016.10.22-14.36.52:019][200]LogModuleManager: Shutting down and abandoning module TaskGraph (139)
+[2016.10.22-14.36.52:019][200]LogModuleManager: Shutting down and abandoning module SlateRemote (138)
+[2016.10.22-14.36.52:019][200]LogModuleManager: Shutting down and abandoning module SteamVRController (137)
+[2016.10.22-14.36.52:019][200]LogModuleManager: Shutting down and abandoning module SteamVR (136)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (135)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (134)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module OculusLibrary (133)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module OculusInput (132)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (131)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module CableComponent (130)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (129)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (127)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module HTML5Networking (126)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (125)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module GeometryCache (124)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module AlembicLibrary (123)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module AlembicImporter (122)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module SuperSearch (121)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (120)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (119)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module PluginBrowser (118)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (117)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module EpicSurvey (116)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module DesktopPlatform (115)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (114)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module UObjectPlugin (113)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (112)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (111)
+[2016.10.22-14.36.52:020][200]LogModuleManager: Shutting down and abandoning module SourceControl (110)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module GitSourceControl (109)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (108)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (107)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (106)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module MeshPaint (105)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (104)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (103)
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module HotReload (102)
+[2016.10.22-14.36.52:021][200]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Desktop/BatteryCollector/Binaries/Win64' was aborted.
+[2016.10.22-14.36.52:021][200]LogModuleManager: Shutting down and abandoning module MainFrame (101)
+[2016.10.22-14.36.52:022][200]LogModuleManager: Shutting down and abandoning module LevelEditor (100)
+[2016.10.22-14.36.52:023][200]LogModuleManager: Shutting down and abandoning module ContentBrowser (99)
+[2016.10.22-14.36.52:025][200]LogModuleManager: Shutting down and abandoning module Paper2DEditor (98)
+[2016.10.22-14.36.52:025][200]LogModuleManager: Shutting down and abandoning module BatteryCollector (97)
+[2016.10.22-14.36.52:025][200]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2016.10.22-14.36.52:127][200]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2016.10.22-14.36.52:227][200]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2016.10.22-14.36.52:228][200]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2016.10.22-14.36.52:228][200]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2016.10.22-14.36.52:228][200]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2016.10.22-14.36.52:228][200]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2016.10.22-14.36.52:228][200]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module Core (67)
+[2016.10.22-14.36.52:232][200]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2016.10.22-14.36.52:232][200]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.10.22-14.36.52:233][200]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Administrator/Desktop/BatteryCollector/Content/' was aborted.
+[2016.10.22-14.36.52:233][200]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.10.22-14.36.52:237][200]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2016.10.22-14.36.52:422][200]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2016.10.22-14.36.52:422][200]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2016.10.22-14.36.52:422][200]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2016.10.22-14.36.52:422][200]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2016.10.22-14.36.52:472][200]LogDerivedDataCache: Shutdown
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2016.10.22-14.36.52:472][200]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2016.10.22-14.36.52:473][200]LogOnline:Display: Unloading online subsystem: NULL
+[2016.10.22-14.36.52:473][200]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.10.22-14.36.52:473][200]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.10.22-14.36.52:473][200]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAB333F7-4445-DD07-4091-17853FDC681E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.1-3142249%2B%2B%2BUE4%2BRelease-4.13&UserID=8eab59d44afdce78ce4374a9ab981df4%7C775dd4eed2904f39a7afe9c9fea51d39%7C9cf291ad-bb5a-4c79-9b94-3002f29f0ffd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.10.22-14.36.52:506][200]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.10.22-14.36.52:506][200]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.10.22-14.36.52:506][200]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.10.22-14.36.52:506][200]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.10.22-14.36.52:506][200]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.10.22-14.36.52:518][200]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.10.22-14.36.52:521][200]LogExit: Exiting.
+[2016.10.22-14.36.52:526][200]Log file closed, 10/22/16 23:36:52
