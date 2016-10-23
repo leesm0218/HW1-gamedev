@@ -1,0 +1,3 @@
+C:\Users\Administrator\Desktop\BatteryCollector\Source\BatteryCollector\BatteryCollector.Build.cs
+C:\Users\Administrator\Desktop\BatteryCollector\Source\BatteryCollector.Target.cs
+C:\Users\Administrator\Desktop\BatteryCollector\Source\BatteryCollectorEditor.Target.cs
